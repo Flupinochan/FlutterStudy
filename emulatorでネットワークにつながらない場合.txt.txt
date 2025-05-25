@@ -1,0 +1,5 @@
+https://qiita.com/void_takazu/items/99eea998520133d4a947
+
+cd C:\Users\metalmental\AppData\Local\Android\Sdk\emulator
+.\emulator -list-avds
+.\emulator -avd Medium_Phone_API_36 -dns-server 8.8.8.8
